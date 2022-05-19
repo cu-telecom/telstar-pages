@@ -1,0 +1,14 @@
+{
+    "pid": {
+      "page-no": 8034,
+      "frame-id": "b"
+    },
+    "visible": true,
+    "frame-type": "gateway",
+    "connection": {
+        "address": "teletext.matrixnetwork.co.uk",
+        "mode": "viewdata",
+        "port": 31744
+    },
+    "cursor": false
+  }
