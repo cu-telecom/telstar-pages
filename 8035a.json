@@ -6,11 +6,11 @@
     "visible": true,
     "frame-type": "information",
     "title": {
-        "data": "[D]Welcome\r\n\r\n",
+        "data": "[y[Village Guide]][c][m.]",
         "type": "markup"
     },
     "content": {
-        "data": "[Y]Hello[C]Telstar[M]World\r\nTest",
+        "data": "[Y]Hello[C]Telstar[M]World\r\n[G]This is a Test",
         "type": "markup"
     }
 }
