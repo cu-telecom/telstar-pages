@@ -11,5 +11,18 @@
   },
   "cursor": false,
   "navmessage-select": "[B][n][Y]Press # to enter : [_+]",
-  "navmessage-notfound": "[B][n][Y]Page not Found :[W]"
+  "navmessage-notfound": "[B][n][Y]Page not Found :[W]",
+  "routing-table": [
+    8031,
+    8031,
+    8031,
+    8031,
+    8031,
+    8031,
+    8031,
+    8031,
+    8031,
+    8031,
+    8031
+  ]
 }
