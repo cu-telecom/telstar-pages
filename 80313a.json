@@ -22,5 +22,7 @@
       803138,
       803139,
       803131
-    ]
+    ],
+    "navmessage-select": "[B][n][Y]Press # to enter : [_+]",
+    "navmessage-notfound": "[B][n][Y]Page not Found :[W]"
   }
